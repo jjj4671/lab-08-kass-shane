@@ -1,0 +1,47 @@
+[33mcommit 4d15e6aa333da1a88dfa82f153a954f32cbf7565[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mb2[m[33m)[m
+Author: shane <shanekass67@gmail.com>
+Date:   Mon Apr 6 08:37:10 2020 -0400
+
+    something
+
+[33mcommit 5e90c76bc6fbfe6ab4cf15e39481311e9470e961[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mb3[m[33m)[m
+Author: shane <shanekass67@gmail.com>
+Date:   Mon Apr 6 08:20:00 2020 -0400
+
+    changed the readme in newbranch
+
+[33mcommit 6f0d311e531bf62fd73c473b8c984fcf3812c7e7[m
+Author: shane <shanekass67@gmail.com>
+Date:   Sun Apr 5 04:38:14 2020 -0400
+
+    realized i was using a heavily edited image file with inconsistent connections between portions of it so fixed that
+
+[33mcommit f7d3a259dda3482082cb52b7d35cfef413c4dcf0[m
+Author: shane <shanekass67@gmail.com>
+Date:   Sun Apr 5 04:27:25 2020 -0400
+
+    something
+
+[33mcommit 7756500bab9aca7f6bf0b8eb0a57d50137919fdb[m
+Author: shane <shanekass67@gmail.com>
+Date:   Sun Apr 5 03:32:05 2020 -0400
+
+    commmitting
+
+[33mcommit 73a5381baf378928ba473a94ec922278e453b3d0[m
+Author: shane <shanekass67@gmail.com>
+Date:   Sat Apr 4 23:27:46 2020 -0400
+
+    committing
+
+[33mcommit 1595664627c611a2a91e7590f1db4b41f197f01c[m
+Author: Shane <50254952+Shanesbrain@users.noreply.github.com>
+Date:   Sat Apr 4 21:02:18 2020 -0400
+
+    Update README.org
+
+[33mcommit 4411f2778ab357b746356bfb4ffbc4e0489b838d[m
+Author: Mike Zamansky <zamansky@gmail.com>
+Date:   Sat Apr 4 21:00:12 2020 -0400
+
+    Initial commit
