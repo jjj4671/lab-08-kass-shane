@@ -128,7 +128,7 @@ int frame(std::string filename){
     out[(h/4)][col] = img[(h/4)][col];
   }
 
-  for(int row = (h/4)+1; row< (3*h)/4; row++){
+  for(int row = (h/4)+2; row< (3*h)/4; row++){
     for(int col = 0; col < w/4; col++) {
       out[row][col] = img[row][col];
     }
